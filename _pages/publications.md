@@ -6,6 +6,27 @@ author_profile: true
 
 My publications are also available at my [Google Scholar page](https://scholar.google.com/citations?user=ybOJ8CwAAAAJ&hl=en).
 
+## 2023
+
+**Optimal transport perturbations for safe reinforcement learning with robustness guarantees**
+<br>
+*arXiv preprint*, 2023
+<br>
+**James Queeney**, Erhan Can Ozcan, Ioannis Ch. Paschalidis, Christos G. Cassandras
+<br>
+<a href="https://arxiv.org/pdf/2301.13375.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<a href="https://github.com/jqueeney/robust-safe-rl"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
+
+**Risk-averse model uncertainty for distributionally robust safe reinforcement learning**
+<br>
+*arXiv preprint*, 2023
+<br>
+**James Queeney**, Mouhacine Benosman
+<br>
+<a href="https://arxiv.org/pdf/2301.12593.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+<a href="https://github.com/jqueeney/robust-safe-rl"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+
 ## 2022
 
 **Opportunities and challenges from using animal videos in reinforcement learning for navigation**
