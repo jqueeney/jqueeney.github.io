@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify">
-I am a fifth-year PhD Candidate in Systems Engineering at Boston University, advised by Professors Yannis Paschalidis and Christos Cassandras. My research focuses on developing theoretically supported deep reinforcement learning algorithms.
-</p>
+<style>body {text-align: justify}</style>
 
-<p style="text-align: justify">
-I am currently interested in postdoctoral research positions beginning Fall 2023.
-</p>
+I am a Postdoctoral Research Fellow at [Mitsubishi Electric Research Laboratories](https://merl.com/), and a Research Affiliate at MIT in the [Aerospace Controls Laboratory](https://acl.mit.edu/). My research focuses on developing reliable, data-driven algorithms for decision making and control.
+
+I received my PhD in systems engineering from Boston University, where I was advised by Yannis Paschalidis and Christos Cassandras. I also hold a MS in systems engineering from Boston University, and a BA in mathematics and mathematical economics from Colgate University.
 
 ## Research
 
-<p style="text-align: justify">
-My long-term research objective is to build autonomous, data-driven systems that will benefit society, and I am interested in reinforcement learning as a framework for achieving this goal. In order to accomplish this, my research focuses on addressing barriers that prevent the deployment of deep reinforcement learning for decision making in complex real-world applications. In particular, I am interested in developing theoretically supported deep reinforcement learning algorithms with performance guarantees related to training stability, robustness, safety, and generalization.
-</p>
+I am interested in building autonomous, data-driven systems that will benefit society. In order to accomplish this long-term objective, we need data-driven methods for decision making and control that can be trusted to deliver reliable performance in complex real-world applications. My current research considers deep reinforcement learning as a framework for achieving this goal. In particular, I am interested in developing reliable deep reinforcement learning algorithms with performance guarantees related to robustness, safety, and generalization.
