@@ -1,0 +1,28 @@
+---
+title: "Optimal transport perturbations for safe reinforcement learning with robustness guarantees"
+authors: "James Queeney, Erhan Can Ozcan, Ioannis Ch. Paschalidis, Christos G. Cassandras"
+venue: "Transactions on Machine Learning Research"
+year: "2024"
+month: "03"
+date: "2024-03-01"
+acronym: "TMLR"
+status: "published"
+type: "journal"
+pdf: "https://arxiv.org/pdf/2301.13375.pdf"
+paper_url: "https://openreview.net/forum?id=cgSXpAR4Gl"
+github: "https://github.com/jqueeney/robust-safe-rl"
+video: ""
+doi: ""
+issn: "2835-8856"
+volume: ""
+number: ""
+pages: ""
+publisher: ""
+school: ""
+awards: "N/A"
+notes: ""
+include_on_website: true
+featured: true
+collection: publications
+permalink: /publication/2024-03-Queeney24-TMLR.html
+---

@@ -1,0 +1,28 @@
+---
+title: "Generalized policy improvement algorithms with theoretically supported sample reuse"
+authors: "James Queeney, Ioannis Ch. Paschalidis, Christos G. Cassandras"
+venue: "IEEE Transactions on Automatic Control"
+year: "2025"
+month: "02"
+date: "2025-02-01"
+acronym: "IEEE TAC"
+status: "to appear"
+type: "journal"
+pdf: "https://arxiv.org/pdf/2206.13714.pdf"
+paper_url: "https://ieeexplore.ieee.org/document/10663867"
+github: "https://github.com/jqueeney/gpi"
+video: ""
+doi: "10.1109/TAC.2024.3454011"
+issn: ""
+volume: "70"
+number: "2"
+pages: ""
+publisher: "IEEE"
+school: ""
+awards: "N/A"
+notes: ""
+include_on_website: true
+featured: false
+collection: publications
+permalink: /publication/2025-02-Queeney25-TAC.html
+---

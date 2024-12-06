@@ -1,0 +1,28 @@
+---
+title: "Opportunities and challenges from using animal videos in reinforcement learning for navigation"
+authors: "Vittorio Giammarino, James Queeney, Lucas C. Carstensen, Michael E. Hasselmo, Ioannis Ch. Paschalidis"
+venue: "22nd IFAC World Congress"
+year: "2023"
+month: "07"
+date: "2023-07-01"
+acronym: "IFAC 2023"
+status: "published"
+type: "conference"
+pdf: "https://arxiv.org/pdf/2209.12347.pdf"
+paper_url: "https://www.sciencedirect.com/science/article/pii/S2405896323004834"
+github: "https://github.com/VittorioGiammarino/Opportunities-and-Challenges-of-Using-Animal-Videos-in-Reinforcement-Learning-for-Navigation"
+video: ""
+doi: "10.1016/j.ifacol.2023.10.136"
+issn: "2405-8963"
+volume: "56"
+number: "2"
+pages: "9056-9061"
+publisher: "Curran Associates, Inc."
+school: ""
+awards: "N/A"
+notes: ""
+include_on_website: true
+featured: false
+collection: publications
+permalink: /publication/2023-07-Giammarino23-IFAC.html
+---

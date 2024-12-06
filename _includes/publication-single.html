@@ -1,0 +1,71 @@
+{% include base_path %}
+
+ <div style="text-align: left">
+    <h3 style="font-weight: bold; margin-top: 30px; margin-bottom: 0px;">{{ post.title }}</h3>
+
+    <!-- Bold a particular author's name -->
+    {% assign authors = post.authors | replace_first: 'James Queeney', '<u>James Queeney</u>' %}
+
+    {% assign authors = authors | replace: '"{o}', 'ö' %}
+    {% assign authors = authors | replace: '"{u}', 'ü' %}
+    <h4 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">{{ authors }}</h4>
+    
+    <h4 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">
+        {% if post.type == "dissertation" %}
+        <em>PhD thesis, Boston University</em>, {{ post.year }}
+        {% else %}
+        {% if post.status == "preprint" %}
+            <em>arXiv preprint</em>, {{ post.year }}
+        {% else %}
+            {% if post.status == "to appear" or post.status == "accepted" %}
+            <em>To appear in {{ post.venue }}</em>, {{ post.year }}
+            {% else %}
+            <em>{{ post.venue }}</em>, {{ post.year }}
+            {% endif %}
+
+            {% if post.acronym != "" and post.acronym != "N/A" %}
+            ({{ post.acronym }})
+            {% endif %}
+        {% endif %}
+        {% endif %}
+    </h4>
+    
+
+    {% if post.notes != "" %}
+      <h4 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">
+        {{ post.notes }}
+      </h4>
+    {% endif %}
+
+    {% if post.awards != "" and post.awards != "N/A" %}
+      {% assign awards = post.awards | split: ", " %}
+      {% for award in awards %}
+        <h4 style="color: green; margin-top: 10px; margin-bottom: 0px;">
+          {{ award }}
+        </h4>
+      {% endfor %}
+    {% endif %}
+
+    <h4 style="margin-top: 10px; margin-bottom: 0px;">
+        
+        <!-- PDF -->
+        {% if post.pdf != "" and post.pdf != "N/A" %}
+          <a style="text-decoration: none;" href="{{ post.pdf }}" target="_blank">Paper <i class="fas fa-fw fa-file-pdf"></i></a>&nbsp;&nbsp;&nbsp;
+        {% endif %}
+        
+        <!-- Code -->
+        {% if post.github != "" and post.github != "N/A" %}
+          <a style="text-decoration: none;" href="{{ post.github }}" target="_blank">Code <i class="fab fa-fw fa-github"></i></a>&nbsp;&nbsp;&nbsp;
+        {% endif %}
+
+        <!-- URL -->
+        {% if post.paper_url != "" and post.paper_url != "N/A" %}
+          <a style="text-decoration: none;" href="{{ post.paper_url }}" target="_blank">URL <i class="fas fa-fw fa-link"></i></a>&nbsp;&nbsp;&nbsp;
+        {% endif %}
+
+        <!-- Video -->
+        {% if post.video != "" and post.video != "N/A" %}
+          <a style="text-decoration: none;" href="{{ post.video }}" target="_blank">Video <i class="fa fa-film"></i></a>&nbsp;&nbsp;&nbsp;
+        {% endif %}
+    </h4>
+ </div>

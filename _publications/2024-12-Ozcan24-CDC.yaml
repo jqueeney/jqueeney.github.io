@@ -1,0 +1,28 @@
+---
+title: "A model-based approach for improving reinforcement learning efficiency leveraging expert observations"
+authors: "Erhan Can Ozcan, Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis"
+venue: "IEEE Conference on Decision and Control"
+year: "2024"
+month: "12"
+date: "2024-12-01"
+acronym: "CDC 2024"
+status: "to appear"
+type: "conference"
+pdf: "https://arxiv.org/pdf/2402.18836.pdf"
+paper_url: "https://arxiv.org/abs/2402.18836"
+github: "https://github.com/noc-lab/sac-expert"
+video: ""
+doi: ""
+issn: ""
+volume: ""
+number: ""
+pages: ""
+publisher: "IEEE"
+school: ""
+awards: "N/A"
+notes: ""
+include_on_website: true
+featured: false
+collection: publications
+permalink: /publication/2024-12-Ozcan24-CDC.html
+---

@@ -1,0 +1,28 @@
+---
+title: "Risk-averse model uncertainty for distributionally robust safe reinforcement learning"
+authors: "James Queeney, Mouhacine Benosman"
+venue: "Advances in Neural Information Processing Systems"
+year: "2023"
+month: "12"
+date: "2023-12-01"
+acronym: "NeurIPS 2023"
+status: "published"
+type: "conference"
+pdf: "https://arxiv.org/pdf/2301.12593.pdf"
+paper_url: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/05b63fa06784b71aab3939004e0f0a0d-Abstract-Conference.html"
+github: "https://github.com/jqueeney/robust-safe-rl"
+video: ""
+doi: ""
+issn: ""
+volume: "36"
+number: ""
+pages: ""
+publisher: "Curran Associates, Inc."
+school: ""
+awards: "N/A"
+notes: ""
+include_on_website: true
+featured: true
+collection: publications
+permalink: /publication/2023-12-Queeney23-NeurIPS.html
+---

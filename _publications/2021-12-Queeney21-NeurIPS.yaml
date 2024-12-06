@@ -1,0 +1,28 @@
+---
+title: "Generalized proximal policy optimization with sample reuse"
+authors: "James Queeney, Ioannis Ch. Paschalidis, Christos G. Cassandras"
+venue: "Advances in Neural Information Processing Systems"
+year: "2021"
+month: "12"
+date: "2021-12-01"
+acronym: "NeurIPS 2021"
+status: "published"
+type: "conference"
+pdf: "https://arxiv.org/pdf/2111.00072.pdf"
+paper_url: "https://proceedings.neurips.cc/paper/2021/hash/63c4b1baf3b4460fa9936b1a20919bec-Abstract.html"
+github: "https://github.com/jqueeney/geppo"
+video: ""
+doi: ""
+issn: ""
+volume: "34"
+number: ""
+pages: ""
+publisher: "Curran Associates, Inc."
+school: ""
+awards: "N/A"
+notes: ""
+include_on_website: true
+featured: false
+collection: publications
+permalink: /publication/2021-12-Queeney21-NeurIPS.html
+---

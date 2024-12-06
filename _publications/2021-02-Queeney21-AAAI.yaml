@@ -1,0 +1,28 @@
+---
+title: "Uncertainty-aware policy optimization: A robust, adaptive trust region approach"
+authors: "James Queeney, Ioannis Ch. Paschalidis, Christos G. Cassandras"
+venue: "Proceedings of the AAAI Conference on Artificial Intelligence"
+year: "2021"
+month: "02"
+date: "2021-02-01"
+acronym: "AAAI 2021"
+status: "published"
+type: "conference"
+pdf: "https://arxiv.org/pdf/2012.10791.pdf"
+paper_url: "https://ojs.aaai.org/index.php/AAAI/article/view/17130"
+github: "https://github.com/jqueeney/uatrpo"
+video: ""
+doi: "10.1609/aaai.v35i11.17130"
+issn: ""
+volume: "35"
+number: ""
+pages: "9377-9385"
+publisher: "AAAI Press"
+school: ""
+awards: "N/A"
+notes: ""
+include_on_website: true
+featured: false
+collection: publications
+permalink: /publication/2021-02-Queeney21-AAAI.html
+---

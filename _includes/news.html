@@ -1,0 +1,25 @@
+{% include base_path %}
+
+<div class="news">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless" style="border: none; font-size: 1em">
+      {% assign news = site.news | reverse %}
+      {% capture oldest_date %}{{site.announcements.oldest_news | date: '%s'}}{% endcapture %}
+      {% for item in news %}
+        {% capture item_date %}{{item.date | date: '%s'}}{% endcapture %}
+        {% if item.include_on_website and item_date >= oldest_date %}
+          <tr>
+            <th scope="row" style="width: 20%; vertical-align: top; border: none">{{ item.date | date: '%b %Y' }}</th>
+            <td style="vertical-align: top; border: none">
+              {% if item.inline %}
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {% else %}
+                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {% endif %}
+            </td>
+          </tr>
+          {% endif %}
+      {% endfor %}
+    </table>
+  </div>
+</div>
