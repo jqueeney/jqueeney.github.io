@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-{% assign last_updated = "2024-12-05" | date: "%b %Y" %}
+{% assign last_updated = "2025-01-31" | date: "%b %Y" %}
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}

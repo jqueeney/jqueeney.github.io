@@ -28,7 +28,7 @@ I received my PhD in systems engineering from Boston University, where I was adv
 {% endif %}
 
 {% if show_news %}
-## Recent News
+## Selected News
 {% include news.html %}
 {% endif %}
 

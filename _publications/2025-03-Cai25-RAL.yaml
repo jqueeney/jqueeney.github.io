@@ -1,28 +1,28 @@
 ---
 title: "PIETRA: Physics-informed evidential learning for traversing out-of-distribution terrain"
 authors: "Xiaoyi Cai, James Queeney, Tong Xu, Aniket Datar, Chenhui Pan, Max Miller, Ashton Flather, Philip R. Osteen, Nicholas Roy, Xuesu Xiao, Jonathan P. How"
-venue: "arXiv"
-year: "2024"
-month: "09"
-date: "2024-09-01"
-acronym: ""
-status: "preprint"
-type: "preprint"
+venue: "IEEE Robotics and Automation Letters"
+year: "2025"
+month: "03"
+date: "2025-03-01"
+acronym: "RA-L"
+status: "published"
+type: "journal"
 pdf: "https://arxiv.org/pdf/2409.03005"
-paper_url: "https://arxiv.org/abs/2409.03005"
+paper_url: "https://ieeexplore.ieee.org/document/10833878"
 github: ""
 video: "https://www.youtube.com/watch?v=OTnNZ96oJRk"
-doi: ""
+doi: "10.1109/LRA.2025.3527285"
 issn: ""
-volume: ""
-number: ""
-pages: ""
-publisher: ""
+volume: "10"
+number: "3"
+pages: "2359-2366"
+publisher: "IEEE"
 school: ""
 awards: "N/A"
 notes: ""
 include_on_website: true
 featured: true
 collection: publications
-permalink: /publication/2024-09-Cai24-arXiv.html
+permalink: /publication/2025-03-Cai25-RAL.html
 ---
