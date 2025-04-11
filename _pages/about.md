@@ -11,12 +11,9 @@ redirect_from:
 
 <style>body {text-align: justify}</style>
 
-I am a Postdoctoral Research Fellow at [Mitsubishi Electric Research Laboratories](https://merl.com/), and a Research Affiliate at MIT in the [Aerospace Controls Laboratory](https://acl.mit.edu/). 
+I am a Research Scientist at [Amazon Robotics](https://www.amazon.science/). I am interested in developing **reliable, data-driven algorithms for decision making and control**. In order to trust that data-driven methods will deliver reliable performance in complex real-world applications, my research focuses on the need for **robustness**, **safety**, and **generalization**. I primarily explore these topics in the context of deep reinforcement learning, imitation learning, and self-supervised learning, with applications in robotics.
 
-I am interested in developing **reliable, data-driven algorithms for decision making and control**. In order to trust that data-driven methods will deliver reliable performance in complex real-world applications, my research focuses on the need for **robustness**, **safety**, and **generalization**. I primarily explore these topics in the context of deep reinforcement learning, imitation learning, and self-supervised learning, with applications in robotics.
-
-I received my PhD in systems engineering from Boston University, where I was advised by Yannis Paschalidis and Christos Cassandras. I also hold a MS in systems engineering from Boston University, and a BA in mathematics and mathematical economics from Colgate University.
-
+Previously, I was a Postdoctoral Research Fellow at [Mitsubishi Electric Research Laboratories](https://merl.com/) and a Research Affiliate at MIT in Jonathan How's [Aerospace Controls Laboratory](https://acl.mit.edu/). I received my PhD in systems engineering from Boston University, where I was advised by Yannis Paschalidis and Christos Cassandras. I also hold a MS in systems engineering from Boston University, and a BA in mathematics and mathematical economics from Colgate University.
 
 
 {% assign show_news = false %}

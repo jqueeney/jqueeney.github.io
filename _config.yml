@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jimmy Queeney"
   avatar           : "jqueeney.jpg"
-  bio              : "Postdoctoral Research Fellow"
+  bio              : "Research Scientist"
   location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ybOJ8CwAAAAJ&hl=en"
-  email            : "queeney@merl.com"
+  email            : "jqueeney@amazon.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
