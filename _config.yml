@@ -193,7 +193,7 @@ collections:
 
 announcements:
   enabled: true
-  oldest_news: "2023-01-01"
+  oldest_news: "2025-01-01"
 
 # Defaults
 defaults:

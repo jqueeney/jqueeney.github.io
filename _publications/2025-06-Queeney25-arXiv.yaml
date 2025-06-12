@@ -1,17 +1,17 @@
 ---
 title: "GRAM: Generalization in deep RL with a robust adaptation module"
-authors: "James Queeney, Xiaoyi Cai, Mouhacine Benosman, Jonathan P. How"
+authors: "James Queeney, Xiaoyi Cai, Alexander Schperberg, Radu Corcodel, Mouhacine Benosman, Jonathan P. How"
 venue: "arXiv"
-year: "2024"
-month: "12"
-date: "2024-12-01"
+year: "2025"
+month: "06"
+date: "2025-06-01"
 acronym: ""
 status: "preprint"
 type: "preprint"
 pdf: "https://arxiv.org/pdf/2412.04323"
 paper_url: "https://arxiv.org/abs/2412.04323"
 github: "https://github.com/merlresearch/gram"
-video: ""
+video: "https://youtu.be/0g2nos2EnCw"
 doi: ""
 issn: ""
 volume: ""
@@ -24,5 +24,5 @@ notes: ""
 include_on_website: true
 featured: true
 collection: publications
-permalink: /publication/2024-12-Queeney24-arXiv.html
+permalink: /publication/2025-06-Queeney25-arXiv.html
 ---
