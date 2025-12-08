@@ -6,7 +6,8 @@ author_profile: true
 
 
 
-{% assign last_updated = "2025-06-11" | date: "%b %Y" %}
+{% assign last_updated = "2025-11-20" | date: "%b %Y" %}
+{% assign show_preprints_first = false %}
 
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
@@ -30,6 +31,7 @@ author_profile: true
 {% endfor %}
 
 {% if show_preprints %}
+{% if show_preprints_first %}
 ## Preprints
 
 {% for post in site.publications reversed %}
@@ -40,6 +42,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+{% endif %}
 {% endif %}
 
 ## Peer-Reviewed Publications
@@ -53,6 +56,21 @@ author_profile: true
     {% endunless %}
   {% endif %}
 {% endfor %}
+
+{% if show_preprints %}
+{% if show_preprints_first == false %}
+## Preprints
+
+{% for post in site.publications reversed %}
+  {% if post.status == "preprint" %}
+    {% if post.include_on_website %}
+      {% include publication-single.html %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% endif %}
+{% endif %}
 
 ## Dissertation
 
