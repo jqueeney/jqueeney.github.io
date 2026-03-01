@@ -2,27 +2,27 @@
 title: "GRAM: Generalization in deep RL with a robust adaptation module"
 authors: "James Queeney, Xiaoyi Cai, Alexander Schperberg, Radu Corcodel, Mouhacine Benosman, Jonathan P. How"
 venue: "IEEE Robotics and Automation Letters"
-year: "2025"
-month: "11"
-date: "2025-11-01"
+year: "2026"
+month: "02"
+date: "2026-02-01"
 acronym: "RA-L"
-status: "to appear"
+status: "published"
 type: "journal"
 pdf: "https://arxiv.org/pdf/2412.04323"
-paper_url: "https://arxiv.org/abs/2412.04323"
+paper_url: "https://ieeexplore.ieee.org/document/11283036"
 github: "https://github.com/merlresearch/gram"
 video: "https://youtu.be/0g2nos2EnCw"
-doi: ""
+doi: "10.1109/LRA.2025.3641155"
 issn: ""
-volume: ""
-number: ""
-pages: ""
-publisher: ""
+volume: "11"
+number: "2"
+pages: "2218-2225"
+publisher: "IEEE"
 school: ""
 awards: "N/A"
 notes: ""
 include_on_website: true
 featured: true
 collection: publications
-permalink: /publication/2025-11-Queeney25-RAL.html
+permalink: /publication/2026-02-Queeney26-RAL.html
 ---
