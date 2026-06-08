@@ -1,19 +1,19 @@
 ---
 title: "Provably efficient off-policy adversarial imitation learning with convergence guarantees"
 authors: "Yilei Chen, Vittorio Giammarino, James Queeney, Ioannis Ch. Paschalidis"
-venue: "arXiv"
-year: "2024"
+venue: "Transactions on Machine Learning Research"
+year: "2026"
 month: "05"
-date: "2024-05-01"
-acronym: ""
-status: "preprint"
-type: "preprint"
+date: "2026-05-01"
+acronym: "TMLR"
+status: "published"
+type: "journal"
 pdf: "https://arxiv.org/pdf/2405.16668"
-paper_url: "https://arxiv.org/abs/2405.16668"
+paper_url: "https://openreview.net/forum?id=OahvMeRgKP"
 github: "https://github.com/fairytale9/off_policy_ail_minigrid"
 video: ""
 doi: ""
-issn: ""
+issn: "2835-8856"
 volume: ""
 number: ""
 pages: ""
@@ -24,5 +24,5 @@ notes: ""
 include_on_website: true
 featured: false
 collection: publications
-permalink: /publication/2024-05-Chen24-arXiv.html
+permalink: /publication/2026-05-Chen26-TMLR.html
 ---

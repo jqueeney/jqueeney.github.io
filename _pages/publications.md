@@ -6,7 +6,7 @@ author_profile: true
 
 
 
-{% assign last_updated = "2026-02-28" | date: "%b %Y" %}
+{% assign last_updated = "2026-06-07" | date: "%b %Y" %}
 {% assign show_preprints_first = false %}
 
 {% if page.author and site.data.authors[page.author] %}
